@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otusParallelismHomeWork", "otusParallelismHomeWork\otusParallelismHomeWork.csproj", "{29ED1A33-5A4E-4063-8D03-24F0A7401CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29ED1A33-5A4E-4063-8D03-24F0A7401CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29ED1A33-5A4E-4063-8D03-24F0A7401CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29ED1A33-5A4E-4063-8D03-24F0A7401CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29ED1A33-5A4E-4063-8D03-24F0A7401CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A89203D5-276D-46FE-87B5-A5CA834B83CA}
+	EndGlobalSection
+EndGlobal
